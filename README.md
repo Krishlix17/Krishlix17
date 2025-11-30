@@ -1,14 +1,34 @@
-# 💫 About Me:
-Aspiring Cybersecurity Professional |Ethical Hacking & Python Enthusiast | Linux User | Building Skills in Web Security & Threat Analysis
+# 💫 About Me  
+Aspiring Cybersecurity Professional | Ethical Hacking & Python Enthusiast | Linux Explorer | Focused on Web Security, Threat Analysis, and Network Defense
 
+# 💻 Skills & Tools  
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)  
+![Bash](https://img.shields.io/badge/Bash-121011?style=plastic&logo=gnu-bash&logoColor=white)  
+![Networking](https://img.shields.io/badge/Networking-0078D4?style=plastic&logo=cisco&logoColor=white)  
+![Web Security](https://img.shields.io/badge/Web%20Security-5A2A82?style=plastic)  
+![Threat Analysis](https://img.shields.io/badge/Threat%20Analysis-FF4757?style=plastic)  
+![Ethical Hacking](https://img.shields.io/badge/Ethical%20Hacking-2ECC71?style=plastic)  
+![Log Analysis](https://img.shields.io/badge/Log%20Analysis-6A5ACD?style=plastic)  
+![DNS](https://img.shields.io/badge/DNS%20Fundamentals-1E90FF?style=plastic)  
+![Firewalls](https://img.shields.io/badge/Firewalls-8B0000?style=plastic)  
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=plastic&logo=docker&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white)  
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=plastic&logo=Raspberry-Pi)
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=plastic&logo=cisco&logoColor=black) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=plastic&logo=cisco&logoColor=black) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=plastic&logo=Raspberry-Pi) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3381933" style='border:none;'></iframe>
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Krishlix17&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Krishlix17&theme=vision-friendly-dark&hide_border=true)<br/>
+# 🎓 Cybersecurity Journey  
+Learning daily through hands-on labs, breaking down systems, understanding attacks, and building defensive skills.
+
+<!-- TryHackMe Badge #1 -->
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3381933" style="border:none;"></iframe>
+
+<!-- TryHackMe Badge #2 (Added as requested) -->
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3381933" style="border:none;"></iframe>
+
+# 📊 GitHub Stats  
+![](https://github-readme-stats.vercel.app/api?username=Krishlix17&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=false)  
+![](https://nirzak-streak-stats.vercel.app/?user=Krishlix17&theme=vision-friendly-dark&hide_border=true)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Krishlix17&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Random Dev Quote  
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
