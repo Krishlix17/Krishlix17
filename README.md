@@ -17,11 +17,9 @@ Aspiring Cybersecurity Professional | Ethical Hacking & Python Enthusiast | Linu
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=plastic&logo=Raspberry-Pi)
 
 # 🎓 Cybersecurity Journey  
-Learning daily through hands-on labs, breaking down systems, understanding attacks, and building defensive skills.
+Hands-on learning through labs, challenges, and practical attack-defense exercises.
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3381933" style='border:none;'></iframe>
-
-
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/BlackHatRevenant.png)
 
 # 📊 GitHub Stats  
 ![](https://github-readme-stats.vercel.app/api?username=Krishlix17&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=false)  
